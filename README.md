@@ -1,6 +1,9 @@
-# Vue 3 + Typescript + Vite
+# Vue 3 + Typescript + Vite + Ionic Framework v6 Beta
 
 This template should help get you started developing with Vue 3 and Typescript in Vite.
+
+See this github issue - https://github.com/ionic-team/ionic-framework/issues/23539 , need to make some changes to project to get it running
+--
 
 ## Recommended IDE Setup
 
