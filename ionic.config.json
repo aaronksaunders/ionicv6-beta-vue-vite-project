@@ -1,0 +1,7 @@
+{
+  "name": "undefined",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">unnamed</string>
+    <string name="title_activity_main">unnamed</string>
+    <string name="package_name">com.unnamed</string>
+    <string name="custom_url_scheme">com.unnamed</string>
+</resources>
